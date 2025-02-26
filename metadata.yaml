@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/sgtm-gtm-item-array-transformation
+versions:
+  - sha: bb01208cf0478dae461fbf2c3d2a03e1dee44a97
+    changeNotes: Initial release.
