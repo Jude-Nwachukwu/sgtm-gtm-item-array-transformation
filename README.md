@@ -2,7 +2,7 @@
 
 A Google Tag Manager (GTM) **server-side** custom variable template designed to transform arrays of objects by remapping attribute keys. This template simplifies the process of structuring data for analytics, tagging, or other integrations.
 
-**Here is the custom template repository for the [web GTM custom template](https://github.com/Jude-Nwachukwu/gtm-item-array-transformation)**
+**➡️ Here is the custom template repository for the [web GTM custom template](https://github.com/Jude-Nwachukwu/gtm-item-array-transformation)**
 
 
 ## Features
